@@ -1,4 +1,4 @@
-# Flutter - How to add image in flutter
+# Flutter - Flutter Bitcoin UI
 [![Youtube](https://img.shields.io/static/v1?label=avinashjindal&message=Portfolio&logo=Portfolio&color=FF0000&style=for-the-badge)][newsletter]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 
